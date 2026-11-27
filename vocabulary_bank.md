@@ -85,3 +85,19 @@ The existing thematic lists remain available as training targets; inclusion alon
 | align stakeholders | Being activated | Already listed under Leadership; used after the prompt and coaching, with hesitation before stakeholders. | Explain stakeholder alignment in a new context without prompting. |
 
 Next session: recycle these chunks in concise executive answers, with fewer pauses and restarts. Guided repetition is useful practice, but active status requires natural, spontaneous use across multiple contexts and conversations.
+
+
+## Session activation tracking — 2026-11-27 — The Office S2E7
+
+These are session observations, not proof of durable activation across conversations.
+
+| Expression / chunk | Status | Observed evidence | Next activation task |
+|---|---|---|---|
+| earn the client's trust | Being activated | Correctly repeated once, but omitted *the* in later shadowing. | Use spontaneously in a different negotiation story. |
+| deliberately use a strategy | Being activated | Adverb placement and past tense needed correction; final repetition *He deliberately used a strategy...* was accurate. | Use in a new past-tense anecdote without prompting. |
+| rather than thoughtful / seemed controlling | Being activated | Initial *controller* corrected to *controlling*; repetition changed *he* to *she*. | Contrast two people's behaviors spontaneously. |
+| everyone could tell | Being activated | Used accurately in a translation with an extra *that*; guided repetition retained the chunk. | Describe an implied meaning in a different scene. |
+| manage to keep the contract / in the end | Being activated | *Managed to* reproduced; *at the end* corrected to *in the end* on second attempt. | Describe an outcome using both expressions without a model. |
+| split up with her husband | Being activated | Correctly reproduced during guided shadowing. | Use in a different social narrative. |
+
+**Next practice:** recycle past questions with *did*, object placement with *give*, and *used a strategy* in spontaneous speech.
